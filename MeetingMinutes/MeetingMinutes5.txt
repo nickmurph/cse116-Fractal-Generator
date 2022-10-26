@@ -1,0 +1,26 @@
+Meeting Minutes for 3/7:
+
+Meeting Attendance:
+  *Ryan-M 
+  *Philip
+  *Lawzeem
+  *Nick
+
+Tasks completed since last meeting:
+  *n/a
+  *
+
+Tasks started, but not completed, since last meeting:
+  *n/a
+  *
+
+Tasks to be worked on (and by which team members) for the next meeting:
+  *Philip - action listeners
+
+  *Ryan- Handler class
+  *Lawzeem - UI
+  *Nick update Image fractals and write tests
+
+Schedule for the next week's set of pair programming meetings:
+  *finish up UI, iron out colors 
+  *

@@ -1,0 +1,4 @@
+In order to run the project, go to src-> edu.buffalo.cse116.code -> Driver.java and then choose run in the Eclipse menu. The project 
+displays the Julia fractal with the Rainbow color scheme at startup, with self-explanatory options for changing the fractal or color 
+scheme in the drop-down menus. As mentioned in update.txt, changing the escape distance is done in the File->Update Escape Time 
+drop-down menu.

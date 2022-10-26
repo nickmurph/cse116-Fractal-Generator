@@ -1,0 +1,22 @@
+Meeting Minutes for March 16th:
+
+Meeting Attendance:
+  Ryan
+  Phil
+  Lawzeem
+  Nick - M
+
+Tasks completed since last meeting:
+  Nick - wrote actionListeners for escape, exit, and color models, javadocs
+  Ryan - wrote actionListeners for fractals, javadocs
+  Lawzeem - JavaDocs, UI stuff?
+  Phil	- JavaDocs, Handler stuff?
+
+Tasks started, but not completed, since last meeting:
+N/A
+
+Tasks to be worked on (and by which team members) for the next meeting:
+ N/A, submitting phase 2
+
+Schedule for the next week's set of pair programming meetings:
+  N/A, awaiting Phase 3

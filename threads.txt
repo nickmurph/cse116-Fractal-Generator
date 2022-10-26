@@ -1,0 +1,4 @@
+The number of threads used to generate a fractal can be changed by going to Options > Set Number of SwingWorkers
+A number between 1 and 128 must be entered. Numbers greater than 128 and less than 1 will not be accepted.
+The SwingWorkersEventHandler.java handles the user input and sends that data to Handler and Updates the Image.
+Since we are using computePool to generate fractals, if multi-threading was not being used, fractals would not display.

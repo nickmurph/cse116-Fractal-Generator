@@ -1,0 +1,11 @@
+In order to update the escape distance, go to the File drop-down menu and select the Update Escape Distance option. An InputDialog window
+will appear, prompting the user to input a number greater than 0. You can test this by entering any string, double, negative number, or 
+symbols. Only a valid int 1 or greater will be accepted. Invalid entries will be denied and the program will again prompt the user with 
+the same InputDialog window. The user can either input a proper escape distance (storing this new escape distance for future use and 
+generating a new fractal with it) or hit cancel (closing the InputDialog window and causing no changes).
+
+Also note: If the user enters an escape distance of 1 with Burning Ship selected (or attempts to switch to BurningShip while they have 
+the escape distance set to 1 on another fractal), they will be warned that Burning Ship does not generate a fractal with that escape
+distance. They will be prompted to enter another Escape Distance (this time > 1) or they can hit cancel to close the window and view the
+blank FractalPanel that would normally be displayed. Their choice of 1 as an Escape Distance will be saved when they hit cancel, and they
+can choose another Fractal from the menu to verify that this occurs.

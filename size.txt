@@ -1,0 +1,7 @@
+You can verify the fractal size is 2048x2048 by checking the Handler and UI classes. 
+
+Handler sets the _size variable to 2048 and this is then
+used in all other classes (eg, ImageFractals and its extensions) to compute the fractal size and associated math (eg, 2D array dimensions).
+
+UI calls setsSize on the fractalPanel and passes through a new Dimension object measuring 2048 by 2048. This ensures the GUI will display
+properly when our other classes send through the 2048 by 2048 @D array of escape times.

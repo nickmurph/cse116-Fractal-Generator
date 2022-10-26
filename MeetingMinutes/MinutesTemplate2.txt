@@ -1,0 +1,23 @@
+Meeting Minutes for _____Feb 16th__________:
+
+Meeting Attendance:
+  *lawzeem
+  *Ryan
+  *Phil
+  *Nick - M
+
+Tasks completed since last meeting:
+  *N/A
+
+
+Tasks started, but not completed, since last meeting:
+  *N/A
+  *
+
+Tasks to be worked on (and by which team members) for the next meeting:
+  *Nick/Lawzeem = Test
+  *Ryan/Phillip = Methods
+
+Schedule for the next week's set of pair programming meetings:
+  *
+  *

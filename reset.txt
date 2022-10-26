@@ -1,0 +1,2 @@
+In order to reset the Fractal Zoom, go to the Options Drop Down menu and simply select Reset Zoom. The Fractal will go 
+back to its previous state will all the other variables such as Escape Distance, Escape Time and Color remaining the same.

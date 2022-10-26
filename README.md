@@ -7,7 +7,8 @@ Java-based desktop app that can generate 4 different fractal images in 4 differe
 - User-configurable: the user can choose the escape distance and escape time used to calculate the fractals, and also modify the number of SwingWorker threads
 - Zoom: fractals wouldn't be nearly as interesting if you couldn't zoom in and observe their nested-similarity nature. Use the reset zoom option in the toolbar to return to normal
 
-
+</br>
+</br>
 
 ![Fractal Generator: Mandelbrot](/img/demo1.png)
 ![Fractal Generator: Julia zoomed in](/img/demo2.png)
